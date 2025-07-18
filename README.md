@@ -6,7 +6,7 @@ MoodWeather is a simple yet powerful React application designed to help users tr
 
 ### 1. Mood Selector
 MoodWeather allows users to track their current emotional state by selecting one of five predefined moods:
-![MoodWeather App Screenshot 1](https://github.com/Keshav1707/MoodWeather/blob/master/assets/images/Screenshot%202025-04-22%20213840.png?raw=true)
+![MoodWeather App Screenshot 1]
 - **Happy**: A bright, warm background color like yellow or orange.
 - **Sad**: A cool, darker background color such as blue or grey.
 - **Neutral**: A balanced background color, like green, to indicate neither positive nor negative emotion.
@@ -17,7 +17,7 @@ Once a user selects their mood, the app automatically changes the background col
 
 ### 2. Entries Page
 The Entries Page is where all the user's past mood entries are stored. The app allows the user to:
-![MoodWeather App Screenshot 2](https://github.com/Keshav1707/MoodWeather/blob/master/assets/images/Screenshot%202025-04-22%20213851.png?raw=true) 
+![MoodWeather App Screenshot 2]
 - View all past mood entries.
 - Update an entry if necessary (e.g., editing a mood or adding additional notes).
 - Delete an entry to remove it from the list.
@@ -26,7 +26,7 @@ Each entry records the mood, temperature (if available), and any additional note
 
 ### 3. Mood Graph
 The Mood Graph is a visual representation of how the user's mood has fluctuated over time. The graph plots mood data against temperature, allowing the user to see the correlation between their emotional state and the temperature at the time of the entry.
-![MoodWeather App Screenshot 3](https://github.com/Keshav1707/MoodWeather/blob/master/assets/images/Screenshot%202025-04-22%20213909.png?raw=true)
+![MoodWeather App Screenshot 3]
 
 - **Mood vs Temperature**: The X-axis of the graph represents the dates or times when entries were made, and the Y-axis represents the mood intensity or temperature. This visualization helps users identify patterns between their mood changes and the weather.
 
@@ -86,7 +86,7 @@ or:
 npm run dev
 ```
 
-This will start the app on http://localhost:3000.
+This will start the app on  http://localhost:5173/.
 
 ### Build for Production
 To build the app for production, run:
@@ -119,7 +119,7 @@ npm run deploy
 
 This will make your app publicly available at:
 ```
-[https://your-username.github.io/your-repository-name/](https://keshav1707.github.io/MoodWeather/)
+(https://shrishti2617.github.io/my-moodweather/)
 ```
 
 ## Contributing
@@ -134,4 +134,4 @@ Contributions are welcome! If you'd like to improve the app or fix issues, pleas
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, feel free to reach out at keshavdewaker@gmail.com
+For any questions or suggestions, feel free to reach out at shrishtikashyap76875@gmail.com
